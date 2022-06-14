@@ -1,0 +1,5 @@
+test.*
+logger.log
+.ipynb_checkpoints
+notebooks/
+__pycache__/
